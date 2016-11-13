@@ -1,5 +1,7 @@
 # MultiScreenUDP
 ====
+[terminal device use this](https://github.com/jiajunhui/MultiScreenUDP_Terminal)
+<br>
 实现了在局域网段内Android平台设备的搜寻，并与搜索到的设备互相通信交互。
 <br>
 该项目采用UDP的广播机制进行设备搜寻。主机端不断的在局域网中发UDP广播，
