@@ -1,6 +1,6 @@
 # MultiScreenUDP
 <br>
-[terminal device use this](https://github.com/jiajunhui/MultiScreenUDP_Terminal)
+控制端使用这个[MultiScreenUDP_Terminal](https://github.com/jiajunhui/MultiScreenUDP_Terminal)
 <br>
 <br>
 实现了在局域网段内Android平台设备的搜寻，并与搜索到的设备互相通信交互。
